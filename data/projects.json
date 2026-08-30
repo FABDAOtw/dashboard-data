@@ -55,6 +55,7 @@
         "avatar": "FD"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -121,6 +122,7 @@
         "avatar": "NY"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -236,6 +238,7 @@
         "avatar": "DK"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -418,6 +421,7 @@
         "avatar": "0X"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -534,6 +538,7 @@
         "avatar": "0X"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -572,6 +577,7 @@
         "avatar": "FA"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -674,6 +680,7 @@
         "avatar": "JF"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -690,7 +697,7 @@
   {
     "id": "18678779685024154136431558951144620663242752-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
-    "image": "https://fabdaotw.github.io/dashboard-data/image/18678779685024154136431558951144620663242752-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
+    "image": "https://lilian79511.github.io/dashboard-data-test/image/FAB DAO artbank collector sharing - Jon Cates_18678779685024154136431558951144620663242752-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
     "timeline": "2025-05-06 → 2025-05-07",
     "description": "Spearker: Jon Cates\nInterpretation: Tai mei\n\nIntroduction of glitch art\n\nJon Cates profile:\nhttps://docs.google.com/document/d/1yxvgCbFaazStNKMEclMN9HoSCNHXiWrR5lN4pBh6GoY/edit?tab=t.0",
@@ -722,6 +729,7 @@
         "avatar": "TM"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0x1bdc71771e1c36e2aead690dc7103834f4812721bc454581bced820ab07ce8b7",
     "minter": {
@@ -759,6 +767,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -775,7 +784,7 @@
   {
     "id": "18679460249757996013358485700359484199665664-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
-    "image": "https://fabdaotw.github.io/dashboard-data/image/18679460249757996013358485700359484199665664-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
+    "image": "https://lilian79511.github.io/dashboard-data-test/image/Taimei_18679460249757996013358485700359484199665664-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
     "timeline": "2025-04-22 → 2025-04-23",
     "description": "Spearker: Tai mei\n\nTai Mei, a Taiwanese artist, reclaims this name to embody contemporary Taiwanese creativity and rebellious spirit. Blending Photography, Glitch, Code, AI, and Blockchain Tech, she explores Taiwan's complex reality, identity, and spirit of resistance. Her work challenges stereotypes, celebrates digital disruption, and tells Taiwanese stories in the contemporary age.\n\n台妹 (Tai Mei) , 台灣藝術家，她重新定義此名，體現當代台灣的創造力與反叛精神。融合攝影、Glitch（故障藝術）、程式碼、AI 與區塊鏈，她探索台灣複雜的現實、身份認同及抵抗精神。其作品挑戰刻板印象、擁抱數位科技，並敘說當代的台灣故事。\n\nhttps://objkt.com/curations/objkt/wallet-sharing-and-wish-list-for-fab-dao_20250423-b0131dbf",
@@ -812,6 +821,7 @@
         "avatar": "ST"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0x4b586032db7a056d6c27e7bb55ed4567504fbf2c5d7c6b17d5aa9f7bcf5f9d14",
     "minter": {
@@ -844,6 +854,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -892,6 +903,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -935,11 +947,174 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0xe58d8a902b164e386c2bb69d2a6a93b9acecb3b8558dbbcf317b1e20838702ea",
     "minter": {
       "name": "0x992f0201ff7eE158a8BAf638549D0aD1CBcC27eF",
       "avatar": "0X"
+    }
+  },
+  {
+    "id": "0x16bA53B74c234C870c61EFC04cD418B8f2865959-42220-109911204515463123698669998200461132300288",
+    "name": "FAB DAO artbank collector sharing - 敦遠(Duane Ang)",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-109911204515463123698669998200461132300288.png",
+    "org": "Art Bank",
+    "timeline": "2026-01-13 → 2026-01-14",
+    "description": "Duane Ang 是位 NFT 的藏家、是傳統音樂及現代音樂的作曲家，同時也是 Web3 探索者。閒暇還創作 NFT，真是一位多才能的創作者。https://x.com/duane_music https://drive.google.com/file/d/1Q_q8zMel_GBnfT_zgKbKjNVPYn6sidlm/view?usp=sharing",
+    "work_scope": [
+      "FAB DAO",
+      "NFT",
+      "DuaneAng",
+      "gen art"
+    ],
+    "contributors": [
+      {
+        "id": "1",
+        "name": "arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "2",
+        "name": "Yii",
+        "avatar": "YI"
+      },
+      {
+        "id": "3",
+        "name": "DuaneAng",
+        "avatar": "DU"
+      }
+    ],
+    "attributes": [],
+    "owners": [],
+    "exploreLink": "https://celo.blockscout.com/tx/0x45b7e50057401d202b6f6f9d542749d5187eebd87631acab339d8de1a479824b",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
+  },
+  {
+    "id": "0x16bA53B74c234C870c61EFC04cD418B8f2865959-42220-109230639781621246771743248985597595877376",
+    "name": "FAB DAO artbank collector sharing - NewYellow",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/NewYellow_0x16bA53B74c234C870c61EFC04cD418B8f2865959-109230639781621246771743248985597595877376.png",
+    "org": "Art Bank",
+    "timeline": "2025-07-22 → 2025-07-23",
+    "description": "Speaker: NewYellow\n\nhttps://x.com/newyellow2\n\ndiscord 錄影版：https://www.youtube.com/watch?v=isQa_V99qco\n沉浸簡報版：https://www.youtube.com/watch?v=TaW7XlDGAnw",
+    "work_scope": [
+      "FAB DAO",
+      " NFT",
+      " newyellow",
+      " gen art"
+    ],
+    "contributors": [
+      { "id": "1", "name": "arttseng", "avatar": "AR" },
+      { "id": "2", "name": "Yii", "avatar": "YI" },
+      { "id": "3", "name": "NewYellow", "avatar": "NY" }
+    ],
+    "attributes": [],
+    "owners": [],
+    "exploreLink": "https://celo.blockscout.com/tx/0x71861d51818d475057cb5c3c55f539f8b7bd64463065fe65f8fb311d1b01d071",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
+  },
+  {
+    "id": "0x16bA53B74c234C870c61EFC04cD418B8f2865959-42220-108550075047779369844816499770734059454464",
+    "name": "FAB DAO artbank collector sharing - Atung",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/Atung_0x16bA53B74c234C870c61EFC04cD418B8f2865959-108550075047779369844816499770734059454464.png",
+    "org": "Art Bank",
+    "timeline": "2025-06-06 → 2025-06-07",
+    "description": "Speaker: Atung\n\nhttps://www.fxhash.xyz/u/Atungg\n\ndocs.google.com/presentation/u/0/d/1ErvbhN7Xwz_bJ-A6Ip1Am7lyX1Na2std",
+    "work_scope": [
+      "FAB DAO",
+      "NFT",
+      "Atung",
+      "gen art"
+    ],
+    "contributors": [
+      { "id": "1", "name": "arttseng", "avatar": "AR" },
+      { "id": "2", "name": "Yii", "avatar": "YI" },
+      { "id": "3", "name": "Atung", "avatar": "AT" }
+    ],
+    "attributes": [],
+    "owners": [],
+    "exploreLink": "https://celo.blockscout.com/tx/0x9c4b4eeed523a27230d2f4f7d97027e328057899c465e3328607043fc98dffce",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
+  },
+  {
+    "id": "0x16bA53B74c234C870c61EFC04cD418B8f2865959-42220-110251486882384062162133372807892900511744",
+    "name": "FAB DAO artbank collector sharing - 佩麗 (Peili)",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/FAB DAO artbank collector sharing - Peili_0x16bA53B74c234C870c61EFC04cD418B8f2865959-110251486882384062162133372807892900511744.png",
+    "org": "Art Bank",
+    "timeline": "2025-10-28 → 2025-10-29",
+    "description": "PEILI 以版畫創作，接觸區塊鏈後，也學了寫程式，上架鏈上的 NFT 作品賣飛、得到若水獎；2026 年將駐村德勒斯登（駐村計劃獲國家文化藝術基金會補助）。\n\nhttps://x.com/PeiliHuang\n\nhttps://drive.google.com/file/d/1pyrFEuHu8Ztak55yEfi9izVpW5T19jBe/view?usp=sharing",
+    "work_scope": [
+      "FAB DAO",
+      "NFT",
+      "Peili",
+      "gen art"
+    ],
+    "contributors": [
+      {
+        "id": "1",
+        "name": "arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "2",
+        "name": "Yii",
+        "avatar": "YI"
+      },
+      {
+        "id": "3",
+        "name": "Peili",
+        "avatar": "PE"
+      }
+    ],
+    "attributes": [],
+    "owners": [],
+    "exploreLink": "https://celo.blockscout.com/tx/0x0687069d6781ffd3ec849d6fdbbc9c49252fff7980822445f87bec040685765d",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
+  },
+  {
+    "id": "0x16bA53B74c234C870c61EFC04cD418B8f2865959-42220-109570922148542185235206623593029364088832",
+    "name": "FAB DAO artbank collector sharing - Aluan Wang",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/Aluan_0x16bA53B74c234C870c61EFC04cD418B8f2865959-109570922148542185235206623593029364088832.png",
+    "org": "Art Bank",
+    "timeline": "2025-09-09 → 2025-09-10",
+    "description": "Speaker: 阿亂(Aluan Wang)\n\nhttps://aluanwang.com/",
+    "work_scope": [
+      "FAB DAO",
+      "Aluan Wang",
+      "NFT"
+    ],
+    "contributors": [
+      { "id": "1", "name": "arttseng", "avatar": "AR" },
+      { "id": "2", "name": "Yii", "avatar": "YI" },
+      { "id": "3", "name": "Aluan", "avatar": "AL" }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Speaker",
+        "value": "阿亂(Aluan Wang)"
+      },
+      {
+        "trait_type": "Website",
+        "value": "https://aluanwang.com/"
+      }
+    ],
+    "owners": [],
+    "exploreLink": "https://celo.blockscout.com/tx/0x460e7d8fea5d6dc6cca61d8672862c3f0866280578ff4084ab016a105dbf63f6",
+    "minter": {
+      "name": "",
+      "avatar": ""
     }
   }
 ]
